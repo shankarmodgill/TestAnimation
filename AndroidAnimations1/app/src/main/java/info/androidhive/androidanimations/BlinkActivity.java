@@ -23,10 +23,10 @@ public class BlinkActivity extends Activity implements AnimationListener {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_blink);
-
 		txtMessage = (TextView) findViewById(R.id.txtMessage);
 		btnStart = (Button) findViewById(R.id.btnStart);
 
+		
 		// load the animation
 		animBlink = AnimationUtils.loadAnimation(getApplicationContext(),
 				R.anim.blink);
