@@ -14,6 +14,8 @@ public class FadeInActivity extends Activity implements AnimationListener {
 
 	TextView txtMessage;
 	Button btnStart;
+      Button btnStart;
+
 
 	// Animation
 	Animation animFadein;
