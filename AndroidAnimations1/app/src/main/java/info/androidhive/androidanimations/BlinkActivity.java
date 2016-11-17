@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class BlinkActivity extends Activity implements AnimationListener {
 
 	TextView txtMessage;
+	TextView txtMessage;
 	
 	Button btnStart;
 
