@@ -17,6 +17,8 @@ public class BlinkActivity extends Activity implements AnimationListener {
 
 	// Animation
 	Animation animBlink;
+	// Animation
+	Animation animBlink;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
