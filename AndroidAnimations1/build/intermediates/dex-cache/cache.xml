@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gigabyte\Desktop\com\AndroidAnimations1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6c106417091ed0a1e27d81add079b1ce1836fff">
+        <dex dex="C:\Users\gigabyte\Desktop\com\AndroidAnimations1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5606e84b8841ad4f11d8a7ba24005c78cdec822c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gigabyte\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\gigabyte\Desktop\com\AndroidAnimations1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_89f54b2a1daf8d300c4f195437143612912ebfec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gigabyte\Desktop\com\AndroidAnimations1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef1f3270f1d6b7d2c387fb37094fce449305d4fb">
+        <dex dex="C:\Users\gigabyte\Desktop\com\AndroidAnimations1\app\build\intermediates\pre-dexed\debug\instant-run_7cb7c1f8c48d188da80693c6e1960184c3b5c697.jar" />
+    </item>
+
+</items>

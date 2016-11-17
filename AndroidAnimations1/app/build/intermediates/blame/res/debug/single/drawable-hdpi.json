@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rotate_clock.png",
+        "source": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\src\\main\\res\\drawable-hdpi\\rotate_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\twitter.png",
+        "source": "C:\\Users\\gigabyte\\Desktop\\com\\AndroidAnimations1\\app\\src\\main\\res\\drawable-hdpi\\twitter.png"
+    }
+]
