@@ -13,7 +13,7 @@ public class RotateActivity extends Activity implements AnimationListener {
 
 	ImageView imgLogo;
 	Button btnStart;
-
+	Button btnStart;
 	// Animation
 	Animation animRotate;
 
